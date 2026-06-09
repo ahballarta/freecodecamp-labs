@@ -26,7 +26,10 @@ The project defines a Planet class with the following behavior:
 
 ## Expected Output Format
 
-text Planet: Earth | Type: Terrestrial | Star: Sun Earth is orbiting around Sun... 
+```text
+Planet: Earth | Type: Terrestrial | Star: Sun
+Earth is orbiting around Sun...
+```
 
 ## Status
 
