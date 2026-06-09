@@ -1,5 +1,7 @@
 # My FreeCodeCamp Python Labs
 
+## Español
+
 Repositorio que contiene mis Labs desarrollados como parte de la Certificación de Python de FreeCodeCamp.
 
 ## Python Labs
@@ -88,7 +90,7 @@ Document my progress while completing the Labs required for the FreeCodeCamp Pyt
 
 ---
 
-### Author
+### Autor / Author
 
 André Ballarta Elguera
 
