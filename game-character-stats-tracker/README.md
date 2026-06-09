@@ -34,7 +34,18 @@ El proyecto define una clase GameCharacter con las siguientes funcionalidades:
 
 ### Ejemplo de Salida
 
-text Name: Kratos Level: 1 Health: 100 Mana: 50  Name: Kratos Level: 1 Health: 70 Mana: 40  Kratos leveled up to 2!  Name: Kratos Level: 2 Health: 100 Mana: 50 
+```text
+Name: Kratos
+Level: 1
+Health: 100
+Mana: 50
+
+Kratos leveled up to 2!
+Name: Kratos
+Level: 2
+Health: 100
+Mana: 50
+```
 
 ### Estado
 
@@ -76,7 +87,18 @@ The project defines a GameCharacter class with the following functionality:
 
 ### Example Output
 
-text Name: Kratos Level: 1 Health: 100 Mana: 50  Name: Kratos Level: 1 Health: 70 Mana: 40  Kratos leveled up to 2!  Name: Kratos Level: 2 Health: 100 Mana: 50 
+```text
+Name: Kratos
+Level: 1
+Health: 100
+Mana: 50
+
+Kratos leveled up to 2!
+Name: Kratos
+Level: 2
+Health: 100
+Mana: 50
+```
 
 ### Status
 
