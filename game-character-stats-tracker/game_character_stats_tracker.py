@@ -46,4 +46,19 @@ class GameCharacter:
         print(f'{self.name} leveled up to {self._level}!')
     
     def __str__(self):
-        pass
+        return f'Name: {self.name}\nLevel: {self.level}\nHealth: {self.health}\nMana: {self.mana}'
+
+# Usage example / Ejemplo de uso
+
+## Creating a final boss / Creando el jefe final 
+final_boss = GameCharacter('Kaneki')
+print(final_boss)
+
+## Modifying his stats / Modificando sus estadísticas
+final_boss.health -= 23
+final_boss.mana -= 14
+print(final_boss)
+
+## Leveling up the character / Subiendo de nivel al personaje
+final_boss.level_up()
+print(final_boss)
