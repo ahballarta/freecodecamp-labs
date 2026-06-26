@@ -15,7 +15,7 @@ Repositorio que contiene mis Labs desarrollados como parte de la Certificación 
 | Debug an ISBN Validator | ✅ Completado |
 | Planet Class | ✅ Completado |
 | Game Character Stats Tracker | ✅ Completado |
-| Player Interface | ⏳ Pendiente |
+| Player Interface | ✅ Completado |
 | Implement the Bisection Method | ⏳ Pendiente |
 | Implement the Quicksort Algorithm | ⏳ Pendiente |
 | Implement the Selection Sort Algorithm | ⏳ Pendiente |
@@ -32,7 +32,7 @@ Repositorio que contiene mis Labs desarrollados como parte de la Certificación 
 - Dictionaries and Sets ✅
 - Error Handling ✅
 - Classes and Objects ✅
-- Object-Oriented Programming (OOP) ⏳
+- Object-Oriented Programming (OOP) ✅
 - Linear Data Structures ⏳
 - Algorithms ⏳
 - Graphs and Trees ⏳
@@ -60,7 +60,7 @@ This repository contains my Labs developed as part of the FreeCodeCamp Python Ce
 | Debug an ISBN Validator | ✅ Completed |
 | Planet Class | ✅ Completed |
 | Game Character Stats Tracker | ✅ Completed |
-| Player Interface | ⏳ Pending |
+| Player Interface | ✅ Completed |
 | Implement the Bisection Method | ⏳ Pending |
 | Implement the Quicksort Algorithm | ⏳ Pending |
 | Implement the Selection Sort Algorithm | ⏳ Pending |
@@ -77,7 +77,7 @@ This repository contains my Labs developed as part of the FreeCodeCamp Python Ce
 - Dictionaries and Sets ✅
 - Error Handling ✅
 - Classes and Objects ✅
-- Object-Oriented Programming (OOP) ⏳
+- Object-Oriented Programming (OOP) ✅
 - Linear Data Structures ⏳
 - Algorithms ⏳
 - Graphs and Trees ⏳
