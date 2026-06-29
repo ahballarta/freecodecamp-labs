@@ -33,7 +33,7 @@ Repositorio que contiene mis Labs desarrollados como parte de la Certificación 
 - Error Handling ✅
 - Classes and Objects ✅
 - Object-Oriented Programming (OOP) ✅
-- Linear Data Structures ⏳
+- Linear Data Structures ✅
 - Algorithms ⏳
 - Graphs and Trees ⏳
 - Dynamic Programming ⏳
@@ -78,7 +78,7 @@ This repository contains my Labs developed as part of the FreeCodeCamp Python Ce
 - Error Handling ✅
 - Classes and Objects ✅
 - Object-Oriented Programming (OOP) ✅
-- Linear Data Structures ⏳
+- Linear Data Structures ✅
 - Algorithms ⏳
 - Graphs and Trees ⏳
 - Dynamic Programming ⏳
