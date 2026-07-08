@@ -16,7 +16,7 @@ Repositorio que contiene mis Labs desarrollados como parte de la Certificación 
 | Planet Class | ✅ Completado |
 | Game Character Stats Tracker | ✅ Completado |
 | Player Interface | ✅ Completado |
-| Implement the Bisection Method | ⏳ Pendiente |
+| Implement the Bisection Method | ✅ Completado |
 | Implement the Quicksort Algorithm | ⏳ Pendiente |
 | Implement the Selection Sort Algorithm | ⏳ Pendiente |
 | Implement the Luhn Algorithm | ⏳ Pendiente |
@@ -61,7 +61,7 @@ This repository contains my Labs developed as part of the FreeCodeCamp Python Ce
 | Planet Class | ✅ Completed |
 | Game Character Stats Tracker | ✅ Completed |
 | Player Interface | ✅ Completed |
-| Implement the Bisection Method | ⏳ Pending |
+| Implement the Bisection Method | ✅ Completed |
 | Implement the Quicksort Algorithm | ⏳ Pending |
 | Implement the Selection Sort Algorithm | ⏳ Pending |
 | Implement the Luhn Algorithm | ⏳ Pending |
