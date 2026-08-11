@@ -32,7 +32,7 @@ def square_root_bisection(square_target,tolerance=1e-5,max_iterations=50):
         print(f'Failed to converge within {max_iterations} iterations')
         return None
     else:
-        print(f'The square root of {square_target} is approximately {mid}' with an error of {error} and a number of iterations of {iteration_index}')
+        print(f'The square root of {square_target} is approximately {mid} with an error of {error} and a number of iterations of {iteration_index}')
     return mid
 
 print(square_root_bisection(0.001, 1e-7, 50))
