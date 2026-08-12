@@ -20,7 +20,7 @@ Repositorio que contiene mis Labs desarrollados como parte de la Certificación 
 | Implement the Quicksort Algorithm | ⏳ Pendiente |
 | Implement the Selection Sort Algorithm | ⏳ Pendiente |
 | Implement the Luhn Algorithm | ⏳ Pendiente |
-| Build an Adjacency List to Matrix Converter | ⏳ Pendiente |
+| Build an Adjacency List to Matrix Converter | ✅ Completado |
 | Implement the Depth-First Search Algorithm | ⏳ Pendiente |
 | Implement the N-Queens Problem | ⏳ Pendiente |
 | Build an Nth Fibonacci Number Calculator | ⏳ Pendiente |
@@ -65,7 +65,7 @@ This repository contains my Labs developed as part of the FreeCodeCamp Python Ce
 | Implement the Quicksort Algorithm | ⏳ Pending |
 | Implement the Selection Sort Algorithm | ⏳ Pending |
 | Implement the Luhn Algorithm | ⏳ Pending |
-| Build an Adjacency List to Matrix Converter | ⏳ Pending |
+| Build an Adjacency List to Matrix Converter | ✅ Completed |
 | Implement the Depth-First Search Algorithm | ⏳ Pending |
 | Implement the N-Queens Problem | ⏳ Pending |
 | Build an Nth Fibonacci Number Calculator | ⏳ Pending |
