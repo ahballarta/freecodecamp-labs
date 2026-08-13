@@ -17,7 +17,7 @@ Repositorio que contiene mis Labs desarrollados como parte de la Certificación 
 | Game Character Stats Tracker | ✅ Completado |
 | Player Interface | ✅ Completado |
 | Implement the Bisection Method | ✅ Completado |
-| Implement the Quicksort Algorithm | ⏳ Pendiente |
+| Implement the Quicksort Algorithm | ✅ Completado |
 | Implement the Selection Sort Algorithm | ⏳ Pendiente |
 | Implement the Luhn Algorithm | ⏳ Pendiente |
 | Build an Adjacency List to Matrix Converter | ✅ Completado |
@@ -62,7 +62,7 @@ This repository contains my Labs developed as part of the FreeCodeCamp Python Ce
 | Game Character Stats Tracker | ✅ Completed |
 | Player Interface | ✅ Completed |
 | Implement the Bisection Method | ✅ Completed |
-| Implement the Quicksort Algorithm | ⏳ Pending |
+| Implement the Quicksort Algorithm | ✅ Completed |
 | Implement the Selection Sort Algorithm | ⏳ Pending |
 | Implement the Luhn Algorithm | ⏳ Pending |
 | Build an Adjacency List to Matrix Converter | ✅ Completed |
