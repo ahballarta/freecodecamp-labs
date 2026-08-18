@@ -49,4 +49,4 @@ André Ballarta Elguera
 
 ---
 
-Completado como parte de la Certificación de Python de freeCodeCamp / Completed as part of the FreeCodeCamp Python Certification
+Completed as part of the FreeCodeCamp Python Certification
