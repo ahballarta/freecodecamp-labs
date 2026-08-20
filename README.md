@@ -32,10 +32,9 @@ This repository contains my Labs developed as part of the FreeCodeCamp Python Ce
 - Classes and Objects ✅
 - Object-Oriented Programming (OOP) ✅
 - Linear Data Structures ✅
-- Algorithms ⏳
+- Algorithms ✅
 - Graphs and Trees ⏳
 - Dynamic Programming ⏳
-- Python Review ⏳
 
 ## Goal
 
